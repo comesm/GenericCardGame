@@ -1,1 +1,1 @@
-# GenericCardGame
+# GenericCardGame see CardGame.js
